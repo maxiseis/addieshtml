@@ -10,7 +10,7 @@ document.getElementById("loginform").addEventListener("submit", function(e) {
     if(username === adminuser && password === adminpass) {
         alert("Welcome, Admin!");
         localStorage.setItem("isAdmin", "true");
-        window.location.href = "admin_dashboard.html"; // Redirect
+        window.location.href = "admin/admin_dashboard.html"; // Redirect
     } else {
         alert("Invalid Credentials");
         console.log("Breach detected");
