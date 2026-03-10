@@ -68,3 +68,25 @@ display:block;
 top:0;
 left:100%;
 }
+
+.cfop{
+    justify-content: center;
+}
+
+.pll{
+    position: relative;
+    left: 50%;
+    transform: translateX(-40%)
+}
+
+.cfop{
+    position: relative;
+    left: 50%;
+    transform: translateX(-30%);
+}
+
+
+/* center
+justify-content: center;
+align-items: center; /* Vertical alignment
+ */
