@@ -70,7 +70,8 @@ left:100%;
 }
 
 .cfop{
-    justify-content: center;
+    position: relative;
+    left: 50%;
 }
 
 .pll{
@@ -79,7 +80,7 @@ left:100%;
     transform: translateX(-40%)
 }
 
-.cfop{
+.oll{
     position: relative;
     left: 50%;
     transform: translateX(-30%);
