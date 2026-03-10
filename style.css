@@ -69,22 +69,6 @@ top:0;
 left:100%;
 }
 
-.cfop{
-    position: relative;
-    left: 50%;
-}
-
-.pll{
-    position: relative;
-    left: 50%;
-    transform: translateX(-40%)
-}
-
-.oll{
-    position: relative;
-    left: 50%;
-    transform: translateX(-30%);
-}
 
 
 /* center
